@@ -1,1 +1,3 @@
 # YMBConfigPipeline
+
+This repository demonstrates a Git-based CI pipeline for Yarrow-Mullein Bank (YMB). The pipeline automatically tests changes to the banking application using GitHub Actions. Each change and pipeline result is recorded in GitHub, giving Ben Secure an auditable record of who made changes, when they were made, and whether the automated tests passed or failed. This supports YMB's requirement for controlled and auditable configuration management.
